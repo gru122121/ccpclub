@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    <title>印子club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="video-background">
+        <video autoplay muted loop playsinline id="myVideo">
+            <source src="video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="hero">
+        <div class="hero-content">
+            <h1 class="title">印子club</h1>
+            <div class="nav-buttons">
+                <button class="nav-btn" data-section="productsSection">Products</button>
+                <button class="nav-btn" data-section="contacts">Contact</button>
+            </div>
+        </div>
+    </div>
+    <section class="products-section" id="productsSection">
+        <div class="product-video-background">
+            <video autoplay muted loop playsinline id="productVideo">
+                <source src="product.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="products-container" id="productsContainer">
+            <!-- Products will be inserted here -->
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+
+    <section class="contacts" id="contacts">
+        <div class="contacts-container">
+            <h2>Contact Us</h2>
+            <div class="social-links">
+                <a href="https://shop234505077.world.taobao.com" target="_blank" class="social-link">
+                    <img src="https://g.alicdn.com/s.gif" alt="Taobao" class="social-icon taobao">
+                    <span>Shop on Taobao</span>
+                </a>
+                <a href="weixin://dl/business/?t=REP6JZYY1Sz" class="social-link">
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04LjQgMTUuM2MtMS4yIDAtMi4xLTAuOS0yLjEtMi4xczAuOS0yLjEgMi4xLTIuMWMyLjEgMCAyLjEgMi4xIDIuMSAyLjFTMTAuNSAxNS4zIDguNCAxNS4zek0xNS42IDE1LjNjLTEuMiAwLTIuMS0wLjktMi4xLTIuMXMwLjktMi4xIDIuMS0yLjFjMi4xIDAgMi4xIDIuMSAyLjEgMi4xUzE3LjcgMTUuMyAxNS42IDE1LjN6Ii8+PC9zdmc+" alt="WeChat" class="social-icon wechat">
+                    <span>Open in WeChat: y2hCCC</span>
+                </a>
+            </div>
+        </div>
+    </section>
+</body>
+</html> 

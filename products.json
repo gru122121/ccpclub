@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title": "印子自主CCP2597先锋风格手工固特异擦色低帮德比靴",
+      "image": "https://gw.alicdn.com/imgextra/O1CN01SRrIOY1XASsA50Cqu_!!3812092883.jpg_q95.jpg_.webp",
+      "price": "800",
+      "link": "https://item.taobao.com/item.htm?id=858842206177",
+      "sales": "45人付款",
+      "description": "手工固特异工艺制作，精选优质皮革，独特擦色处理",
+      "colors": ["黑色", "棕色"],
+      "sizes": ["38", "39", "40", "41", "42", "43", "44"]
+    },
+    {
+      "title": "印子自主ccp暗黑先锋风格马皮基础高帮靴",
+      "image": "https://gw.alicdn.com/imgextra/O1CN01bJjouf1XASs0CxwIx_!!3812092883.jpg_q95.jpg_.webp",
+      "price": "800",
+      "link": "https://item.taobao.com/item.htm?id=855710727749",
+      "sales": "16人付款",
+      "description": "采用优质马皮，暗黑先锋设计风格，高帮设计",
+      "colors": ["黑色"],
+      "sizes": ["38", "39", "40", "41", "42", "43", "44"]
+    },
+    {
+      "title": "暗黑先锋ccp刀片项链���告 操作中",
+      "image": "https://gw.alicdn.com/imgextra/O1CN01LdUo9H1XASqiCN8Qk_!!3812092883.jpg_q95.jpg_.webp",
+      "price": "8888",
+      "link": "https://item.taobao.com/item.htm?id=836467515793",
+      "sales": "0人付款",
+      "description": "独特刀片设计，暗黑先锋风格配饰",
+      "colors": ["银色"],
+      "sizes": ["均码"]
+    }
+  ],
+  "shopInfo": {
+    "name": "印子club",
+    "logo": "https://img.alicdn.com/imgextra/i1/3812092883/O1CN01XzNYv31XASploSXOl_!!3812092883.jpg",
+    "taobaoUrl": "https://shop234505077.world.taobao.com",
+    "wechat": "y2hCCC"
+  }
+} 
